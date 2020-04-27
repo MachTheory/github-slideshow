@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Mach's second slide!"
 ---
-"Added additional text to slide"
+Welcome to MachTheory's slide
 Use the left arrow to go back!
